@@ -1,0 +1,15 @@
+/home/lautarocruzsrur/Escritorio/tl1-tp8-2025-LautaroCruzSrur/ToDo/bin/Debug/net8.0/ToDo
+/home/lautarocruzsrur/Escritorio/tl1-tp8-2025-LautaroCruzSrur/ToDo/bin/Debug/net8.0/ToDo.deps.json
+/home/lautarocruzsrur/Escritorio/tl1-tp8-2025-LautaroCruzSrur/ToDo/bin/Debug/net8.0/ToDo.runtimeconfig.json
+/home/lautarocruzsrur/Escritorio/tl1-tp8-2025-LautaroCruzSrur/ToDo/bin/Debug/net8.0/ToDo.dll
+/home/lautarocruzsrur/Escritorio/tl1-tp8-2025-LautaroCruzSrur/ToDo/bin/Debug/net8.0/ToDo.pdb
+/home/lautarocruzsrur/Escritorio/tl1-tp8-2025-LautaroCruzSrur/ToDo/obj/Debug/net8.0/ToDo.GeneratedMSBuildEditorConfig.editorconfig
+/home/lautarocruzsrur/Escritorio/tl1-tp8-2025-LautaroCruzSrur/ToDo/obj/Debug/net8.0/ToDo.AssemblyInfoInputs.cache
+/home/lautarocruzsrur/Escritorio/tl1-tp8-2025-LautaroCruzSrur/ToDo/obj/Debug/net8.0/ToDo.AssemblyInfo.cs
+/home/lautarocruzsrur/Escritorio/tl1-tp8-2025-LautaroCruzSrur/ToDo/obj/Debug/net8.0/ToDo.csproj.CoreCompileInputs.cache
+/home/lautarocruzsrur/Escritorio/tl1-tp8-2025-LautaroCruzSrur/ToDo/obj/Debug/net8.0/ToDo.sourcelink.json
+/home/lautarocruzsrur/Escritorio/tl1-tp8-2025-LautaroCruzSrur/ToDo/obj/Debug/net8.0/ToDo.dll
+/home/lautarocruzsrur/Escritorio/tl1-tp8-2025-LautaroCruzSrur/ToDo/obj/Debug/net8.0/refint/ToDo.dll
+/home/lautarocruzsrur/Escritorio/tl1-tp8-2025-LautaroCruzSrur/ToDo/obj/Debug/net8.0/ToDo.pdb
+/home/lautarocruzsrur/Escritorio/tl1-tp8-2025-LautaroCruzSrur/ToDo/obj/Debug/net8.0/ToDo.genruntimeconfig.cache
+/home/lautarocruzsrur/Escritorio/tl1-tp8-2025-LautaroCruzSrur/ToDo/obj/Debug/net8.0/ref/ToDo.dll
