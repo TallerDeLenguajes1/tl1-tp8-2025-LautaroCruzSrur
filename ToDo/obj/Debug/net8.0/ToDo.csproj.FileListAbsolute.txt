@@ -13,3 +13,18 @@
 /home/lautarocruzsrur/Escritorio/tl1-tp8-2025-LautaroCruzSrur/ToDo/obj/Debug/net8.0/ToDo.pdb
 /home/lautarocruzsrur/Escritorio/tl1-tp8-2025-LautaroCruzSrur/ToDo/obj/Debug/net8.0/ToDo.genruntimeconfig.cache
 /home/lautarocruzsrur/Escritorio/tl1-tp8-2025-LautaroCruzSrur/ToDo/obj/Debug/net8.0/ref/ToDo.dll
+C:\Users\ROG BY NG\Desktop\tl1-tp8-2025-LautaroCruzSrur\ToDo\bin\Debug\net8.0\ToDo.exe
+C:\Users\ROG BY NG\Desktop\tl1-tp8-2025-LautaroCruzSrur\ToDo\bin\Debug\net8.0\ToDo.deps.json
+C:\Users\ROG BY NG\Desktop\tl1-tp8-2025-LautaroCruzSrur\ToDo\bin\Debug\net8.0\ToDo.runtimeconfig.json
+C:\Users\ROG BY NG\Desktop\tl1-tp8-2025-LautaroCruzSrur\ToDo\bin\Debug\net8.0\ToDo.dll
+C:\Users\ROG BY NG\Desktop\tl1-tp8-2025-LautaroCruzSrur\ToDo\bin\Debug\net8.0\ToDo.pdb
+C:\Users\ROG BY NG\Desktop\tl1-tp8-2025-LautaroCruzSrur\ToDo\obj\Debug\net8.0\ToDo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROG BY NG\Desktop\tl1-tp8-2025-LautaroCruzSrur\ToDo\obj\Debug\net8.0\ToDo.AssemblyInfoInputs.cache
+C:\Users\ROG BY NG\Desktop\tl1-tp8-2025-LautaroCruzSrur\ToDo\obj\Debug\net8.0\ToDo.AssemblyInfo.cs
+C:\Users\ROG BY NG\Desktop\tl1-tp8-2025-LautaroCruzSrur\ToDo\obj\Debug\net8.0\ToDo.csproj.CoreCompileInputs.cache
+C:\Users\ROG BY NG\Desktop\tl1-tp8-2025-LautaroCruzSrur\ToDo\obj\Debug\net8.0\ToDo.sourcelink.json
+C:\Users\ROG BY NG\Desktop\tl1-tp8-2025-LautaroCruzSrur\ToDo\obj\Debug\net8.0\ToDo.dll
+C:\Users\ROG BY NG\Desktop\tl1-tp8-2025-LautaroCruzSrur\ToDo\obj\Debug\net8.0\refint\ToDo.dll
+C:\Users\ROG BY NG\Desktop\tl1-tp8-2025-LautaroCruzSrur\ToDo\obj\Debug\net8.0\ToDo.pdb
+C:\Users\ROG BY NG\Desktop\tl1-tp8-2025-LautaroCruzSrur\ToDo\obj\Debug\net8.0\ToDo.genruntimeconfig.cache
+C:\Users\ROG BY NG\Desktop\tl1-tp8-2025-LautaroCruzSrur\ToDo\obj\Debug\net8.0\ref\ToDo.dll
