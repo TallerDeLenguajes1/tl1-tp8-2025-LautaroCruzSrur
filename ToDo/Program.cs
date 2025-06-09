@@ -1,12 +1,22 @@
 ﻿using TareaTodo;
 
- Random random = new Random();
-int numeroAleatorio = random.Next(10, 1001);
-int id = generadorID.ObtenerID();
-string descripcion = $"Esta es la tarea con id {id}";
+List<Tarea> TareasPendientes = new List<Tarea>();
+List<Tarea> TareasRealizadas =  new List<Tarea>();
+Random random = new Random();
 
-Tarea unaTarea = new Tarea(id, descripcion, numeroAleatorio);
+string salida = "";
+int i = 0;
+do
+{
 
-Console.WriteLine($"\nLa tarea id{unaTarea.TareaID}, descripcion {unaTarea.Descripcion}, duracion {unaTarea.Duracion}");
-List<Tarea> TareasPendientes = [];
-List<Tarea> TareasRealizadas = [];
+    int numeroAleatorio = random.Next(10, 1001);
+    int id = generadorID.ObtenerID();
+    string descripcion = $"Esta es la tarea con numero {id}";
+    Tarea unaTarea = new Tarea(id, descripcion, numeroAleatorio , 0);
+    i++;
+    TareasPendientes.Add(unaTarea);
+
+    Console.WriteLine("\n¿Desea ingresar una nueva tarea? (s/n)");
+    salida = Console.ReadLine();
+
+} while (salida != "n");
