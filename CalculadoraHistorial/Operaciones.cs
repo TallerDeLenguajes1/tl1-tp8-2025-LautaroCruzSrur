@@ -1,4 +1,4 @@
-namespace operaciones;
+namespace Operaciones;
 
 public class Operacion
 {
@@ -6,23 +6,40 @@ public class Operacion
 
     private double nuevoValor;// El valor  con el que se opera sobre el resultadoAnterior
 
-    private TipoOperacion operacion; // El tipo de operacion realizada
+    private TipoOperacion operaciones; // El tipo de operacion realizada
 
-    public double Resultado
+    public double Resultado()
     {
-        /*logica del resultado */
+        double resultado=0;
+            switch (operaciones)
+            {
+                case (TipoOperacion)1:
+                    resultado = ResultadoAnterior + nuevoValor;
+                    break;
+                case (TipoOperacion)2:
+                    resultado = ResultadoAnterior - nuevoValor;
+                    break;
+                case (TipoOperacion)3:
+                    resultado = ResultadoAnterior * nuevoValor;
+                    break;
+                case (TipoOperacion)4:
+                    resultado = ResultadoAnterior / nuevoValor;
+                    break;
+            }
+            return resultado;
     }
 
-    //propiedad para acceder al nuevo valor utlizado
-
-    public double nuevoValor
-    {
-
-    }
     public double NuevoValor { get => this.nuevoValor; set => this.nuevoValor = value; }
     public double ResultadoAnterior { get => resultadoAnterior; set => resultadoAnterior = value; }
-    public TipoOperacion Operacion { get => operacion; set => operacion = value; }
+    public TipoOperacion Operaciones { get => operaciones; set => operaciones = value; }
 
+    public Operacion(double resultadoAnterior, double nuevoValor, TipoOperacion operacion)
+        {
+            this.resultadoAnterior = resultadoAnterior;
+            this.nuevoValor = nuevoValor;
+            this.operaciones = operacion;
+        }
+    }
     public enum TipoOperacion
     {
         Suma,
@@ -30,5 +47,4 @@ public class Operacion
         Multiplicacion,
         Division,
         Limpiar //Representa la accion de borrar el resultado actual o el historial
-    }
-}    
+    }    
